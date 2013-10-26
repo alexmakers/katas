@@ -1,0 +1,2 @@
+def ordered?(word)
+end
